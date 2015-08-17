@@ -96,7 +96,7 @@ h1 {
 
 
 .left {
-	height:500px;
+	height:700px;
 }
 
 .controls {
@@ -107,6 +107,7 @@ h1 {
 	background-size:80%;
 	background-position:center;
 	background-color:#321515;
+	margin-right:30px;
 }
 
 .play {
@@ -138,16 +139,11 @@ h1 {
 	background: #c1a2a2;
 }
 
-.details {
-	float:left;
-	margin:20px;
-	margin-left:38px;
-}
-
 article {
 	background-color:#230b0b;
 	margin:25px 0;
-	padding:10px;
+	padding:25px;
+	border-radius:20px;
 }
 
 audio {
@@ -177,6 +173,11 @@ article p {
 	clear:both;
 }
 
+footer {
+	margin:30px 0;
+	text-align:center;
+	color:gray;
+}
 
 
 
